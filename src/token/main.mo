@@ -8,7 +8,7 @@ actor Token {
     Debug.print("Hello!");
 
 // converst to Principal data type
-    let owner : Principal = Principal.fromText("ufz7v-7iu2v-y66ba-m3oz7-unu5k-qljq7-vvujy-xah6k-jfjkq-jlyf3-nae");
+    let owner : Principal = Principal.fromText("");
 
     //total supply of a token
     let totalSupply : Nat = 1000000000;
